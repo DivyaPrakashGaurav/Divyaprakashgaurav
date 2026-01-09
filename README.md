@@ -1,6 +1,7 @@
+
 <div align="center">
 
-<img src="YOUR_IMAGE_LINK_HERE" width="100%">
+<img src="images/Logo-light.jpg" width="15%">
 
 # 🌐 Divya Prakash Gaurav  
 ### **Frontend Developer | UI Designer | Software Developer**
