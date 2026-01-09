@@ -29,27 +29,6 @@ I turn ideas into clean, beautiful, and working digital experiences.
 
 ---
 
-# 🚀 Portfolio Highlights
-
-### ✔ Fully Responsive  
-Optimized for mobile, tablet and desktop.
-
-### ✔ Smooth Animations  
-Beautiful UI transitions powered by TailwindCSS.
-
-### ✔ Modern UI Design  
-Minimalistic, clean and elegant layout.
-
-### ✔ Project Showcase  
-Displays my best work with live previews.
-
-### ✔ Contact Form  
-Fully functional contact form (Web3Forms API).
-
-### ✔ Dark/Light Theme  
-Auto toggling theme with modern UI effects.
-
----
 
 # 🛠 Tech Stack Used
 
@@ -62,65 +41,10 @@ Auto toggling theme with modern UI effects.
 
 ---
 
-# 🖼 Screenshots  
-_(Replace placeholder images with your real screenshots later)_
-
-### 📌 Home Page  
-![Home](https://via.placeholder.com/900x450?text=Portfolio+Home+Page)
-
-### 📌 Projects Section  
-![Projects](https://via.placeholder.com/900x450?text=Projects+Showcase)
-
-### 📌 Contact Section  
-![Contact](https://via.placeholder.com/900x450?text=Contact+Me)
-
----
-
-# 📂 Project Structure
-
-```
-portfolio/
-│── index.html
-│── script.js
-│── styles.css (if any)
-│── images/
-│── Assets/
-│── tailwind.config.js
-```
-
----
-
 # 🔗 Live Demo
 
 👉 **Visit Now:**  
 ### ⭐ https://divyaprakashgaurav.me/
-
----
-
-# 🧩 Features Section (For Recruiters)
-
-This portfolio demonstrates:
-
-- Clean and structured HTML  
-- Modern TailwindCSS layout  
-- Interactive UI/UX design  
-- Component-based design  
-- Real project showcases  
-- Professional presentation  
-- SEO-optimized head section  
-- Fast loading & mobile friendly  
-
----
-
-# 🧾 How to Run Locally
-
-```
-git clone https://github.com/DivyaPrakashGaurav/divyaprakashgaurav.me
-cd divyaprakashgaurav.me
-open index.html
-```
-
-Or simply open the `index.html` in your browser.
 
 ---
 
